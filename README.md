@@ -2,4 +2,4 @@
 
 minesweeper using tkinter
 
-[img](/img.png)
+![img](/img.png)
